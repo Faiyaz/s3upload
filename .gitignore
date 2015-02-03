@@ -1,0 +1,9 @@
+## files
+.DS_Store
+
+## directories
+.idea
+
+## Should ignore config file to preserve sensitive data,
+## by removing the hash signs
+## config.php
